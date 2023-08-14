@@ -1,6 +1,6 @@
 # 💙 Java Training 💙
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=Java%20Training&fontColor=ffffff&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=118ecf&height=300&section=header&text=Java%20Training&fontColor=000000&fontSize=70&animation=fadeIn)
 
 ## :books: Java 꾸준히 연습하기
 :heavy_check_mark: JAVA 언어를 익숙하게 사용하기 위한 여러가지 내장함수 및 타입 테스트 <br>
